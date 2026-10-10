@@ -1,0 +1,9 @@
+{
+  "name": "shankra-ki-awazz",
+  "version": "1.0.0",
+  "description": "Anonymous campus issue reporting and tracking platform (Hacktoberfest)",
+  "main": "server.js",
+  "scripts": { "start": "node --no-warnings server.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
